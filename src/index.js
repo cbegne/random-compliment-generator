@@ -90,7 +90,7 @@ const generateButton = () => {
   actionButtonHTML.innerText = text;
 };
 
-export const generateColor = () => {
+const generateColor = () => {
   const hexValues = [
     "0",
     "1",
