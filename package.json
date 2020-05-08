@@ -6,6 +6,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "scripts": {
     "clean": "rm dist/bundle.js",
     "start": "parcel index.html",
