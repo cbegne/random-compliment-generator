@@ -1,5 +1,3 @@
-import "./styles.scss";
-
 const BUTTONS = [
   "😎 Encore",
   "Fais moi rêver",
