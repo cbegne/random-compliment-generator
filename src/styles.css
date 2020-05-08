@@ -47,10 +47,11 @@ p {
   cursor: pointer;
   transition: all ease 0.3s;
   padding: 15px;
-  &:hover {
-    background-color: rgba(220, 220, 235, 0.7);
-    transition: all ease 0.3s;
-  }
+}
+
+.button:hover {
+  background-color: rgba(220, 220, 235, 0.7);
+  transition: all ease 0.3s;
 }
 
 .button-stop {
