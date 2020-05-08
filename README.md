@@ -1,6 +1,7 @@
 # random-compliment-generator
 
 Get a compliment now.
+https://cbegne.github.io/random-compliment-generator/
 
 ## Building and running on localhost
 
